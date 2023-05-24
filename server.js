@@ -536,11 +536,11 @@ app.get('/', (request, response) => {
     response.sendFile(__dirname + '/index.html')
 })
 
-app.get('/api/letters', (request, response) => {
+app.get('/letters', (request, response) => {
     response.json(letters)
 })
 
-app.get('/api/words', (request, response) => {
+app.get('/words', (request, response) => {
     response.json(solutions)
 })
 
