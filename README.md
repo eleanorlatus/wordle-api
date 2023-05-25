@@ -1,4 +1,18 @@
-# wordle-api
-A simple API that returns 5 letter words to use in word games.
+# Wordle API
 
-To run this, you need to run 'npm install' in your command line.
+A simple API that returns 5 letter words to be used in different word games. I mainly built this to use with my React wordle project but it could be used in different scenarios. 
+
+The API is hosted here: https://wordle-api.cyclic.app
+
+## Getting started
+
+To access the 5 letter words: https://wordle-api.cyclic.app/words
+
+## Optimisations
+
+For optimisations, I would simply add more words to the list and reorganise/tidy up the file structure.
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
