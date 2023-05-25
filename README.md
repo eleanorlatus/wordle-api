@@ -8,9 +8,15 @@ The API is hosted here: https://wordle-api.cyclic.app
 
 To access the 5 letter words: https://wordle-api.cyclic.app/words
 
+To run the application on your local machine, you can simply install the node modules using:
+
+```bash
+npm install
+```
+
 ## Optimisations
 
-For optimisations, I would simply add more words to the list and reorganise/tidy up the file structure.
+For optimisations, I would add more words to the list and reorganise/tidy up the file structure.
 
 ## License
 
